@@ -1,0 +1,23 @@
+appId: null
+---
+- tapOn:
+    id: "email"
+- tapOn:
+    id: "password"
+- tapOn:
+    id: "login-button"
+- tapOn: "Selecione seu endereço..."
+- tapOn:
+    id: "android:id/button1"
+- tapOn: "Pastelaria da Maria"
+- tapOn:
+    point: "95%,44%"
+- tapOn:
+    id: "open-cart-button"
+- tapOn:
+    id: "confirm-order-button"
+- tapOn: "Dinheiro"
+- tapOn:
+    id: "do-order-button"
+- assertVisible:
+    id: "order-sucess-txt"
