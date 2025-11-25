@@ -1,6 +1,5 @@
-appId: com.qazandoqafood
+appId: null
 ---
-- launchApp
 - tapOn:
     id: "email"
 - tapOn:

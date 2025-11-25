@@ -23,6 +23,6 @@ jobs:
 
       - uses: mobile-dev-inc/action-maestro-cloud@v1.1.0
         with:
-          #apiKey: 32e00590-435d-469e-90b2-15806898c0cc
-          apiKey: rb_8d75AdNqbJB3ZBWhknSaEkEi5xIURoDFvDlzAjJKsMEJ2mbe0rhg6i4SL3kmrQMvCgOcI6hsB75dTY11vApVZBw88XlR2kGzxgy
+          apiKey: 32e00590-435d-469e-90b2-15806898c0cc
+          #apiKey: rb_8d75AdNqbJB3ZBWhknSaEkEi5xIURoDFvDlzAjJKsMEJ2mbe0rhg6i4SL3kmrQMvCgOcI6hsB75dTY11vApVZBw88XlR2kGzxgy
           app-file: qafood.apk
